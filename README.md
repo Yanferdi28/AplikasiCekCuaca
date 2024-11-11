@@ -117,7 +117,7 @@ private void muatDataCuaca() {
 
 ## 6. Tampilan Pada Saat Aplikasi Di Jalankan
 
-
+![image](https://github.com/user-attachments/assets/27ebf3e4-ac94-4ac8-850a-66fde79bf5ca)
 
 ## 7. Indikator Penilaian
 
